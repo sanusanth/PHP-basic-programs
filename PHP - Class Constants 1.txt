@@ -13,6 +13,9 @@ class Goodbye {
 $goodbye = new Goodbye();
 $goodbye->byebye();
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
