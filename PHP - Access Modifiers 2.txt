@@ -24,6 +24,9 @@ $mango->set_name('Mango'); // OK
 $mango->set_color('Yellow'); // ERROR
 $mango->set_weight('300'); // ERROR
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
