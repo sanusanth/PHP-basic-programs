@@ -21,6 +21,9 @@ echo x::$value;
 $x = new x();
 echo $x->xStatic();
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
