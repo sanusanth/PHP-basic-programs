@@ -30,6 +30,9 @@ class Strawberry extends Fruit {
 $strawberry = new Strawberry("Strawberry", "red", 50);
 $strawberry->intro();
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
