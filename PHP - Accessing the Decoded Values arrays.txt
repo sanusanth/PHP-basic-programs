@@ -11,6 +11,9 @@ echo $arr["sanu"];
 echo $arr["dowmi"];
 echo $arr["sanus"];
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
