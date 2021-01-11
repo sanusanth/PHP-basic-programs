@@ -9,6 +9,9 @@ class Goodbye {
 
 echo Goodbye::LEAVING_MESSAGE;
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
