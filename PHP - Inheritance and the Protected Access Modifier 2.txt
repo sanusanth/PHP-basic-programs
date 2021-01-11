@@ -25,6 +25,9 @@ class Strawberry extends Fruit {
 $strawberry = new Strawberry("Strawberry", "red");  // OK. __construct() is public
 $strawberry->message(); // OK. message() is public and it calls intro() (which is protected) from within the derived class
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
