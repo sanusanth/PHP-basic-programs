@@ -19,6 +19,9 @@ class domainW3 extends domain {
 $domainW3 = new domainW3;
 echo $domainW3 -> websiteName;
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
