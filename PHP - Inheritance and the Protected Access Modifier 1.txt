@@ -26,6 +26,9 @@ $strawberry = new Strawberry("Strawberry", "red");  // OK. __construct() is publ
 $strawberry->message(); // OK. message() is public
 $strawberry->intro(); // ERROR. intro() is protected
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
