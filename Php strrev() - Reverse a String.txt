@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo strrev("Hello world!"); //  Reverse the string( word)
+?> 
+ 
+</body>
+</html>
