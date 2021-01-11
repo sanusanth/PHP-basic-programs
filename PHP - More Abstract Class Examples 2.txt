@@ -11,9 +11,9 @@ abstract class ParentClass {
 class ChildClass extends ParentClass {
   // The child class may define optional arguments that is not in the parent's abstract method
   public function prefixName($name, $separator = ".", $greet = "Dear") {
-    if ($name == "John Doe") {
+    if ($name == "sanu santh") {
       $prefix = "Mr";
-    } elseif ($name == "Jane Doe") {
+    } elseif ($name == "sanu santh") {
       $prefix = "Mrs";
     } else {
       $prefix = "";
@@ -23,9 +23,9 @@ class ChildClass extends ParentClass {
 }
 
 $class = new ChildClass;
-echo $class->prefixName("John Doe");
+echo $class->prefixName("sanu santh");
 echo "<br>";  
-echo $class->prefixName("Jane Doe");
+echo $class->prefixName("sanu santh");
 ?>
  <br> 
 <center>
