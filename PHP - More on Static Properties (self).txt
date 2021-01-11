@@ -14,6 +14,9 @@ class pi {
 $pi = new pi();
 echo $pi->staticValue();
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
