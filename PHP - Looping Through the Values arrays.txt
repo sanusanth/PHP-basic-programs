@@ -11,6 +11,9 @@ foreach($arr as $key => $value) {
   echo $key . " => " . $value . "<br>";
 }
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
