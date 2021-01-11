@@ -11,6 +11,9 @@ echo $obj->Peter;
 echo $obj->Ben;
 echo $obj->Joe;
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
