@@ -12,6 +12,9 @@ class greeting {
 // Call static method
 greeting::welcome();
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
