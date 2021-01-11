@@ -31,6 +31,9 @@ function showUser(str) {
 </form>
 <br>
 <div id="txtHint"><b>Person info will be listed here.</b></div>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
