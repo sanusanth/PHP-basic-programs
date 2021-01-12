@@ -8,6 +8,9 @@ $y = array("c" => "blue", "d" => "yellow");
 
 print_r($x + $y); // union of $x and $y
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
