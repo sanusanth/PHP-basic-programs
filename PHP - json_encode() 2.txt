@@ -7,6 +7,9 @@ $cars = array("Volvo", "BMW", "Toyota");
 
 echo json_encode($cars);
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
