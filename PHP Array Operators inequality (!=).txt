@@ -8,6 +8,9 @@ $y = array("c" => "blue", "d" => "yellow");
 
 var_dump($x != $y);
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
