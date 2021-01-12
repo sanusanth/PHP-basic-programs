@@ -12,6 +12,9 @@ class Fruit {
 $apple = new Fruit();
 $apple->set_name("Apple");
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
