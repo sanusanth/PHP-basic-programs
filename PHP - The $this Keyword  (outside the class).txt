@@ -9,6 +9,9 @@ class Fruit {
 $apple = new Fruit();
 $apple->name = "Apple";
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
