@@ -11,6 +11,9 @@ if ($t < "20") {
   echo "Have a good night!";
 }
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
