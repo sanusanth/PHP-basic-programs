@@ -18,6 +18,9 @@ class Fruit {
 $apple = new Fruit("Apple");
 echo $apple->get_name();
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
