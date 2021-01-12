@@ -32,6 +32,9 @@ $obj2 = new Welcome2();
 $obj2->msg1();
 $obj2->msg2();
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
