@@ -10,6 +10,9 @@ class Strawberry extends Fruit {
 }
 
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
