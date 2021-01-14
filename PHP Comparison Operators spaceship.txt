@@ -20,6 +20,9 @@ $y = 10;
 
 echo ($x <=> $y); // returns +1 because $x is greater than $y
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
