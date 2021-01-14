@@ -11,6 +11,9 @@
    // variable $color is "red" if $color does not exist or is null
    echo $color = $color ?? "red";
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
