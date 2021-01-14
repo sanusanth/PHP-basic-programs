@@ -12,6 +12,9 @@ if(count($_COOKIE) > 0) {
     echo "Cookies are disabled.";
 }
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
