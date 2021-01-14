@@ -7,6 +7,9 @@
 define("GREETING", "Welcome to W3Schools.com!", true);
 echo greeting;
 ?> 
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
