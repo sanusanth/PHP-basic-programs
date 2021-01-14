@@ -8,6 +8,9 @@ $x %= 4;
 
 echo $x;
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
