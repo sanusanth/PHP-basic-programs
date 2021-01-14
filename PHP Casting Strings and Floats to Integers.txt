@@ -15,6 +15,9 @@ $x = "23465.768";
 $int_cast = (int)$x;
 echo $int_cast;
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
