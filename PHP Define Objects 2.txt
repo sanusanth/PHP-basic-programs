@@ -30,6 +30,9 @@ echo "Name: " . $apple->get_name();
 echo "<br>";
 echo "Color: " .  $apple->get_color();
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
