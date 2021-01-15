@@ -17,5 +17,10 @@ is_float()
 is_double() - alias of is_float()*/
 ?>  
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
