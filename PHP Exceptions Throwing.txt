@@ -13,5 +13,10 @@ function divide($dividend, $divisor) {
 echo divide(5, 0);
 ?>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
