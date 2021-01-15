@@ -10,5 +10,10 @@ setcookie("user", "", time() - 3600);
 echo "Cookie 'user' is deleted.";
 ?>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
