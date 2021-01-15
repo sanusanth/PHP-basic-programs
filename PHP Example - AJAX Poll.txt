@@ -23,5 +23,10 @@ No: <input type="radio" name="vote" value="1" onclick="getVote(this.value)">
 </form>
 </div>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
