@@ -13,5 +13,10 @@ $d=strtotime("+3 Months");
 echo date("Y-m-d h:i:sa", $d) . "<br>";
 ?>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
