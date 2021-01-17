@@ -7,5 +7,10 @@ date_default_timezone_set("America/New_York");
 echo "The time is " . date("h:i:sa");
 ?>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
