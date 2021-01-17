@@ -8,5 +8,10 @@ $pattern = "/ba(na){2}/i";
 echo preg_match($pattern, $str);
 ?>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
