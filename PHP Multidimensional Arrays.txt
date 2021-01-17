@@ -16,5 +16,10 @@ echo $cars[2][0].": In stock: ".$cars[2][1].", sold: ".$cars[2][2].".<br>";
 echo $cars[3][0].": In stock: ".$cars[3][1].", sold: ".$cars[3][2].".<br>";
 ?>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
