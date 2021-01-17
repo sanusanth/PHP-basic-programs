@@ -11,5 +11,10 @@ if ($x == 100 || $y == 80) {
 }
 ?>  
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
