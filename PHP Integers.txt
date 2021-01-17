@@ -33,5 +33,10 @@ is_long() - alias of is_int()
 Example*/
 ?>  
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
