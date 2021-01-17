@@ -11,5 +11,10 @@ $_SESSION["favcolor"] = "yellow";
 print_r($_SESSION);
 ?>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
