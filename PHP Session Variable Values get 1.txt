@@ -10,6 +10,9 @@ session_start();
 echo "Favorite color is " . $_SESSION["favcolor"] . ".<br>";
 echo "Favorite animal is " . $_SESSION["favanimal"] . ".";
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
