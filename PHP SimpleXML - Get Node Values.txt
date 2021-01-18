@@ -9,6 +9,9 @@ echo $xml->from . "<br>";
 echo $xml->heading . "<br>";
 echo $xml->body;
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
