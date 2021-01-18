@@ -15,6 +15,9 @@ if (!filter_var($url, FILTER_VALIDATE_URL) === false) {
   echo("$url is not a valid URL");
 }
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
