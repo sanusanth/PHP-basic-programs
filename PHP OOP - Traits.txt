@@ -16,6 +16,9 @@ class Welcome {
 $obj = new Welcome();
 $obj->msg1();
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
