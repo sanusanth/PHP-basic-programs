@@ -16,6 +16,9 @@ $myXMLData =
 $xml=simplexml_load_string($myXMLData) or die("Error: Cannot create object");
 print_r($xml);
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
