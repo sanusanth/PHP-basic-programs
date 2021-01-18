@@ -22,6 +22,9 @@ echo "<br>";
 $x = "Hello";
 var_dump(is_numeric($x));
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
