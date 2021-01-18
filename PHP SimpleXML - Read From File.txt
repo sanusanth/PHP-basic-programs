@@ -6,6 +6,9 @@
 $xml=simplexml_load_file("note.xml") or die("Error: Cannot create object");
 print_r($xml);
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
