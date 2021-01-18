@@ -11,6 +11,9 @@ foreach($age as $x => $x_value) {
   echo "<br>";
 }
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
