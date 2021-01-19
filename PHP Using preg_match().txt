@@ -3,10 +3,13 @@
 <body>
 
 <?php
-$str = "Visit W3Schools";
-$pattern = "/w3schools/i";
+$str = "https://github.com/sanusanth";
+$pattern = "/https://github.com/sanusanth/i";
 echo preg_match($pattern, $str); 
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
