@@ -7,6 +7,9 @@ $str = "Visit Microsoft!";
 $pattern = "/microsoft/i";
 echo preg_replace($pattern, "W3Schools", $str);
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
