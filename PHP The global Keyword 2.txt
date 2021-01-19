@@ -13,6 +13,9 @@ function myTest() {
 myTest();
 echo $y;
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
