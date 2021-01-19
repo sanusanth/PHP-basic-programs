@@ -4,6 +4,9 @@
 <body>
 
 <a href="test_get.php?subject=PHP&web=W3schools.com">Test $GET</a>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
