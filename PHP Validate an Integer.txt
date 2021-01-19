@@ -11,6 +11,9 @@ if (!filter_var($int, FILTER_VALIDATE_INT) === false) {
   echo("Integer is not valid");
 }
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
