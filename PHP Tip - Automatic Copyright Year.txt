@@ -3,6 +3,9 @@
 <body>
 
 © 2010-<?php echo date("Y");?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
