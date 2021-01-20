@@ -9,6 +9,9 @@ foreach ($colors as $value) {
   echo "$value <br>";
 }
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
