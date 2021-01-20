@@ -6,6 +6,9 @@
 echo(min(0, 150, 30, 20, -8, -200) . "<br>");
 echo(max(0, 150, 30, 20, -8, -200));
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
