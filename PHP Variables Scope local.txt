@@ -12,6 +12,9 @@ myTest();
 // using x outside the function will generate an error
 echo "<p>Variable x outside function is: $x</p>";
 ?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
