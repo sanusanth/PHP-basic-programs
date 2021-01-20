@@ -5,4 +5,4 @@ function addNumbers(int $a, int $b) {
 }
 echo addNumbers(5, "5 days"); 
 // since strict is enabled and "5 days" is not an integer, an error will be thrown
-?>
+?> // creater by sanusanth
