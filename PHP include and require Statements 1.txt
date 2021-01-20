@@ -6,6 +6,9 @@
 <p>Some text.</p>
 <p>Some more text.</p>
 <?php include 'footer.php';?>
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
