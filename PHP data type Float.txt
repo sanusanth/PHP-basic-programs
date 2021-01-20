@@ -6,6 +6,9 @@
 $x = 10.365;
 var_dump($x);
 ?>  
-
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
 </body>
 </html>
