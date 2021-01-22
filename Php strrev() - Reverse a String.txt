@@ -5,6 +5,10 @@
 <?php
 echo strrev("Hello world!"); //  Reverse the string( word)
 ?> 
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
