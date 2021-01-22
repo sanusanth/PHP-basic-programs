@@ -6,5 +6,10 @@
 echo(rand(10, 100));
 ?>
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
