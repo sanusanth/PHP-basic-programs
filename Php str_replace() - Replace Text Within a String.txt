@@ -6,5 +6,11 @@
 echo str_replace("world", "Dolly", "Hello world!");
 ?> 
  /* The PHP str_replace() function replaces some characters with some other characters in a string. */
+
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
