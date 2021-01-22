@@ -6,5 +6,10 @@
 echo "This My first PHP project GooD MoRnIg!";
 ?> 
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
