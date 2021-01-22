@@ -5,6 +5,10 @@
 <?php
 echo strlen("Hello world!"); // count letters
 ?> 
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
