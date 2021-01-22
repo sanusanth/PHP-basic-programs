@@ -9,5 +9,10 @@ echo "My house is " . $COLOR . "<br>";
 echo "My boat is " . $coLOR . "<br>";
 ?> 
 
+<br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
