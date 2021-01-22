@@ -19,6 +19,10 @@ switch ($favcolor) {
     echo "Your favorite color is neither red, blue, nor green!";
 }
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
