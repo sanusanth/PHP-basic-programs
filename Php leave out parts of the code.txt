@@ -7,6 +7,10 @@
 $x = 5 /* + 15 */ + 5;
 echo $x;
 ?>
- 
+ <br> 
+<center>
+<p> Creater By <b> Sanusanth </b> </p> 
+</center>
+
 </body>
 </html>
