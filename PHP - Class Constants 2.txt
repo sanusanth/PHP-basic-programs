@@ -10,8 +10,9 @@ class Goodbye {
 echo Goodbye::LEAVING_MESSAGE;
 ?>
 <br> 
-<center>
+<ce <a href="https://github.com/sanusanth">Visit Sanusanth</a> nter>
 <p> Creater By <b> Sanusanth </b> </p> 
+
 </center>
 </body>
 </html>
