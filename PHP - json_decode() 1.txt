@@ -3,13 +3,16 @@
 <body>
 
 <?php
-$jsonobj = '{"Peter":35,"Ben":37,"Joe":43}';
+$jsonobj = '{"kusal":35,"kuna":37,"kumar":43}';
  
 var_dump(json_decode($jsonobj));
 ?>
 <br> 
 <center>
 <p> Creater By <b> Sanusanth </b> </p> 
+
+<a href="https://github.com/sanusanth">Visit Sanusanth</a>
+
 </center>
 </body>
 </html>
