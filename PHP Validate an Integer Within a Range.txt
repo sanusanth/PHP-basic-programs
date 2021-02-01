@@ -20,6 +20,7 @@ if (filter_var($int, FILTER_VALIDATE_INT, array("options" => array("min_range"=>
 <br> 
 <center>
 <p> Creater By <b> Sanusanth </b> </p> 
+<a href="https://github.com/sanusanth">Visit Sanusanth</a>
 </center>
 </body>
 </html>
